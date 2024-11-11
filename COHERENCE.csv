@@ -1,0 +1,11 @@
+﻿CódigoA;Tipo;Atributo;Operador;RelaciónABC;CódigoB;CódigoC;Observación
+ACO109;PM;Cantidad;>=;1;251508, 251504;;Arrime de cruceta rolliza contenga al menos la misma cantidad de cruceta de 4m o 6m
+AHO812;PM;Cantidad;>=;1;251506;;Instalación de cruceta contenga al menos la misma cantidad de cruceta de 2.5
+AHO812;PMM;Cantidad;=;3;251506;300010, 300012, 300029, 300525, 300527, 300529, 300536;Instalación de cruceta con prestación de paso incluya 3 aisladores tipo pin
+251506;MM;Cantidad;=;2;240083, 240084, 251388, 251509, 251510, 251528;;Si se incluye una cruceta, debe contener 2 diagonales
+300529;MM;Cantidad;=;1;201072;;Si incluye aislador tipo pin, debe contener 1 porta aislador tipo pin
+300536;MM;Cantidad;=;1;201072;;Si incluye aislador tipo pin, debe contener 1 porta aislador tipo pin
+300537;MM;Cantidad;=;1;201073;;Si incluye aislador tipo pin, debe contener 1 porta aislador tipo pin
+300520;MM;Cantidad;=;1;201073;;Si incluye aislador tipo pin, debe contener 1 porta aislador tipo pin
+300525;MM;Cantidad;=;1;201072;;Si incluye aislador tipo pin, debe contener 1 porta aislador tipo pin
+300527;MM;Cantidad;=;1;201072;;Si incluye aislador tipo pin, debe contener 1 porta aislador tipo pin
