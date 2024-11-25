@@ -8,4 +8,5 @@
   'MESSAGE': '',
   'MESSAGE_START': '2024-11-15',
   'MESSAGE_END': '2024-11-16',
+  'BETA_VERSION': 'v0.1b'
 }
