@@ -3,10 +3,10 @@
   'LAST_MM60': '20241117',
   'LAST_PREST': '20241117',
   'LAST_APP_VERSION': 'v0.1.4',
-  'LAST_APP_VERSION_URL': 'https://www.dropbox.com/scl/fi/2cg1el5a3gytnc3np2g5i/7Tools_v0.1.4.zip?rlkey=ybaiv6hdas9w6xm6ikp4s9n7t&st=ux3n40pm&dl=1',
-  'LAST_APP_VERSION_URL_BU': 'https://www.dropbox.com/scl/fi/ngj15692neaed80yvpewg/7Tools_v0.1.4.zip?rlkey=md873p1qqtdla08ewbrszexmx&st=vdmmwbe3&dl=1',
+  'LAST_APP_VERSION_URL': 'https://www.dropbox.com/scl/fi/99igogzi5eyg05jrfh99x/7Tools_v0.1.4.zip?rlkey=pa8cxypbxvl9pjcu62dul71ik&st=nebzl52k&dl=1',
+  'LAST_APP_VERSION_URL_BU': 'https://www.dropbox.com/scl/fi/8jcycbgadxmv73txcd1xa/7Tools_v0.1.4.zip?rlkey=p9gx6949xv16lgax9d7rcrctf&st=prtqvfg3&dl=1',
   'MESSAGE': '',
   'MESSAGE_START': '2024-11-15',
   'MESSAGE_END': '2024-11-16',
-  'BETA_VERSION': 'v0.1b'
+  'BETA_VERSION': 'local'
 }
