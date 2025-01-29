@@ -1,0 +1,48 @@
+"""
+import random
+
+
+questions ={
+    0: 'Qué es una variable? y de 3 tipos de variables',
+    1: 'Qué es una librería en Python? y diga una usada para realizar gráficas',
+    2: 'Qué significa OOP en programación?',
+    3: 'Qué es PEP8 en Python?',
+    4: 'Qué es IDLE en programación?',
+    5: 'Cuál es la diferencia entre un lenguaje interpretado y uno compilado?',
+    6: 'Qué es un lenguaje de programación de alto nivel?',
+    7: 'Cuál es el Zen de Python?',
+    }
+opc = random.randrange(0, len(questions.keys()), 1)
+q = questions.get(opc)
+form = 'https://forms.office.com/e/VMm8d39w1k'
+print('')
+print('')
+print('############# INICIO ################')
+while True:
+    print('Ingresa tu nombre y oprime la tecla Enter:')
+    name = input('')
+    if name:
+        break
+
+data = f'{opc}:{name}'
+token = data.encode('037').hex()
+print('')
+print('Para inscribirte en el "curso" de Python entra en el siguiente formulario, ingresa el token generado y la respuesta de la siguiente pregunta:')
+print('-----------------------------------')
+print('')
+print(f'Enlace formulario: {form}')
+print('')
+print('-----------------------------------')
+print('')
+print(f'Token: {token}')
+print('')
+print('-----------------------------------')
+print('')
+print(f'Pregunta: {q}')
+print('')
+print('-----------------------------------')
+print('')
+print('No compartas el token ni la respuesta con nadie')
+print('')
+print('############### FIN ##################')
+"""
